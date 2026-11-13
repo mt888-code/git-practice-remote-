@@ -1,6 +1,3 @@
 #tao textfile cho feature a
-<<<<<<< HEAD
 changes in main 
-=======
-changes when developing feature b 
->>>>>>> 64540dd (second change in feature b)
+changes when developing feature b
